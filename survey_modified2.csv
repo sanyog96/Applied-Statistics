@@ -1,0 +1,224 @@
+,Gender,Degree,Internet connectivity issues,Area,Lecture Modes,Online learning content quality,Class interaction with instructors,Personalized Interaction with instructors,Level of interaction with your batchmates?,Motivation,Work-life balance,Study environment,Stress levels,Online examination experience,Study hours,grades
+1,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Very bad,Few,None,Low,1,1,Noisy,4,Good,5,8.9
+2,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos",Moderate,Most,Few,Moderate,2,2,Noisy,4,Bad,7,7.6
+3,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,2,3,Noisy,3,Moderate,6,8.1
+4,Male,Undergraduate,Moderate,Rural,Live Session,Good,Most,Few,Low,2,2,Quiet,2,Bad,4,6.6
+5,Male,Postgraduate,Rarely,Urban,Live Session,Moderate,Few,Few,Low,1,1,Noisy,2,Bad,2,6.9
+6,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Few,None,Low,3,3,Noisy,4,Bad,6,8.1
+7,Male,Postgraduate,Very often,Rural,Live Session,Very bad,Few,Few,Low,2,1,Noisy,5,Bad,10,8.1
+8,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Moderate,Few,Few,Low,1,2,Noisy,4,Bad,4,7
+9,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Most,Moderate,2,3,Noisy,3,Moderate,8,7.5
+10,Male,Postgraduate,Rarely,Rural,Live Session,Moderate,Few,None,Low,1,1,Noisy,5,Moderate,8,8
+11,Male,Postgraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Few,None,Low,1,2,Noisy,4,Bad,4,7.6
+12,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,None,Moderate,4,1,Quiet,5,Bad,10,7.4
+13,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Moderate,1,2,Noisy,2,Moderate,9,8.6
+14,Male,Undergraduate,Rarely,Urban,Live Session,Moderate,Few,Few,Low,2,2,Noisy,4,Moderate,4.5,7.5
+15,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Good,Few,Few,Low,1,2,Quiet,4,Bad,8,7.7
+16,Male,Undergraduate,Moderate,Rural,Live Session,Good,Most,None,Low,1,2,Quiet,2,Bad,7,7.5
+17,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Most,Low,3,3,Noisy,4,Bad,4,7.2
+18,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,None,Low,1,2,Noisy,2,Moderate,6,7.5
+19,Male,Postgraduate,Very often,Rural,"Live Session, Recorded Videos",Very bad,Few,None,Low,2,4,Quiet,3,Bad,5,6.9
+20,Male,Postgraduate,Very often,Rural,"Live Session, Recorded Videos",Very bad,Few,None,Low,1,1,Noisy,5,Moderate,10,8.2
+21,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Bad,Most,Few,Low,3,4,Quiet,2,Moderate,6,7.8
+22,Male,Postgraduate,Rarely,Urban,Doubt sessions,Good,Most,Most,Moderate,3,3,Quiet,3,Moderate,10,8.5
+23,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos",Moderate,Few,Few,Low,3,3,Noisy,3,Moderate,5,7.8
+24,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Few,Few,Moderate,3,4,Quiet,3,Moderate,10,8.4
+25,Male,Postgraduate,Moderate,Rural,Live Session,Good,Few,Few,Moderate,5,4,Noisy,2,Moderate,10,8
+26,Male,Undergraduate,Very often,Rural,"Recorded Videos, Doubt sessions",Moderate,Most,None,Moderate,2,1,Quiet,4,Good,8,8.6
+27,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Very bad,Few,Few,Low,2,1,Noisy,4,Bad,8,8
+28,Female,Postgraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Most,Moderate,3,4,Quiet,3,Good,5,7.9
+29,Female,Undergraduate,Moderate,Urban,Live Session,Good,Most,Most,Moderate,3,3,Noisy,1,Good,8,7.5
+30,Male,Undergraduate,Rarely,Urban,Live Session,Moderate,Few,None,Moderate,3,4,Quiet,2,Good,7,7.5
+31,Male,Postgraduate,Moderate,Urban,Live Session,Moderate,Most,None,Moderate,3,3,Noisy,4,Moderate,7,7.6
+32,Male,Undergraduate,Rarely,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Most,Low,4,4,Quiet,2,Good,4,8.4
+33,Male,Undergraduate,Never,Urban,"Live Session, Recorded Videos",Bad,Few,None,Moderate,2,3,Quiet,4,Moderate,4,7.4
+34,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Most,Low,4,3,Noisy,3,Good,7,7.7
+35,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Moderate,2,2,Noisy,4,Bad,10,7.1
+36,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,None,Moderate,2,5,Quiet,2,Moderate,4.5,6.8
+37,Male,Undergraduate,Very often,Urban,"Live Session, Recorded Videos",Good,Most,None,Moderate,2,2,Quiet,4,Bad,6,8
+38,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos",Good,Most,None,Low,5,5,Quiet,4,Good,10,8.2
+39,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos",Bad,Few,Few,Low,1,2,Noisy,5,Bad,4,6.6
+40,Male,Postgraduate,Rarely,Urban,Live Session,Good,Most,Most,Moderate,4,3,Quiet,5,Good,10,8.7
+41,Male,Postgraduate,Very often,Urban,Live Session,Moderate,Few,Few,Low,2,3,Noisy,4,Moderate,5,7.3
+42,Female,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos",Moderate,Few,None,Moderate,1,1,Noisy,5,Bad,6,7.6
+43,Female,Undergraduate,Rarely,Urban,"Live Session, Doubt sessions",Moderate,Few,Few,Low,1,3,Quiet,4,Moderate,10,8.7
+44,Female,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Low,1,1,Noisy,3,Bad,5,7.7
+45,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Low,2,1,Quiet,4,Bad,2,7
+46,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos",Moderate,Most,Few,Low,4,4,Quiet,3,Good,10,8.6
+47,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,1,1,Noisy,5,Moderate,10,8.6
+48,Male,Undergraduate,Never,Urban,"Live Session, Recorded Videos, Doubt sessions",Very bad,Most,Most,High,5,5,Quiet,1,Good,6,7.3
+49,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos",Bad,Few,Few,Moderate,2,1,Quiet,3,Moderate,5,7.9
+50,Male,Postgraduate,Very often,Rural,Live Session,Moderate,Most,Few,Low,2,4,Noisy,4,Bad,8,7.3
+51,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Bad,Most,Most,Low,2,2,Noisy,4,Moderate,10,8.4
+52,Male,Postgraduate,Very often,Rural,"Live Session, Recorded Videos",Good,Most,Most,High,2,2,Noisy,5,Moderate,4,6.6
+53,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,None,Moderate,1,1,Quiet,3,Moderate,1,6.4
+54,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,None,Low,2,2,Noisy,4,Bad,10,8.1
+55,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos",Very bad,Few,Few,Moderate,3,3,Noisy,4,Bad,8,7.3
+56,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Bad,Most,Few,Low,1,1,Noisy,4,Bad,6,7.2
+57,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Most,Low,2,3,Quiet,4,Moderate,3,6.7
+58,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Low,3,2,Noisy,4,Moderate,6,7.5
+59,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,None,Low,1,1,Quiet,4,Bad,7,8
+60,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,Few,Moderate,1,3,Noisy,4,Moderate,8,7.6
+61,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,3,2,Noisy,5,Bad,10,8
+62,Male,Undergraduate,Very often,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,None,Low,3,2,Quiet,5,Moderate,10,8.8
+63,Female,Postgraduate,Rarely,Rural,"Live Session, Recorded Videos",Good,Most,Most,High,3,1,Noisy,5,Bad,5,7.3
+64,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Very good,Most,Few,Low,5,5,Quiet,3,Good,8,8
+65,Male,Undergraduate,Moderate,Rural,Live Session,Moderate,Few,None,Low,1,3,Noisy,4,Bad,8,7.3
+66,Male,Postgraduate,Rarely,Urban,Recorded Videos,Good,Most,Most,Moderate,2,3,Noisy,4,Good,8,7.8
+67,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Most,Low,5,3,Quiet,3,Good,10,8
+68,Female,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,1,2,Quiet,3,Moderate,6,7.7
+69,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos",Moderate,None,None,Low,1,1,Noisy,4,Moderate,9,9
+70,Female,Postgraduate,Rarely,Urban,Live Session,Very good,Most,Most,Moderate,1,2,Quiet,1,Good,1,8.1
+71,Male,Postgraduate,Never,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Few,Few,Moderate,1,1,Noisy,3,Moderate,2,6.3
+72,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Good,Most,Most,Moderate,4,4,Quiet,4,Bad,10,7.1
+73,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Moderate,3,3,Noisy,4,Bad,11,7.4
+74,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos",Moderate,Few,None,Moderate,4,3,Quiet,3,Moderate,4,7.7
+75,Female,Postgraduate,Very often,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,2,2,Quiet,4,Bad,6,7.3
+76,Male,Postgraduate,Very often,Urban,"Live Session, Recorded Videos, Doubt sessions",Very bad,Few,None,Low,1,1,Noisy,5,Bad,3,6.8
+77,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,3,2,Quiet,5,Bad,10,7.8
+78,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,2,2,Noisy,4,Moderate,6,7.8
+79,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Very good,Most,Most,High,5,5,Quiet,5,Good,9,8.7
+80,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Most,Few,Moderate,2,2,Noisy,3,Moderate,8,7.4
+81,Female,Postgraduate,Rarely,Urban,Live Session,Moderate,Most,Few,Low,3,3,Noisy,5,Good,10,8
+82,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos",Moderate,Few,None,Moderate,2,2,Noisy,4,Moderate,2,6.1
+83,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Bad,Most,None,Low,1,2,Quiet,2,Bad,2.5,6.7
+84,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos",Moderate,Most,Few,High,2,3,Noisy,3,Moderate,8,7.2
+85,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Few,Few,Moderate,3,2,Noisy,3,Good,6,8
+86,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Most,Few,Moderate,2,2,Noisy,5,Good,10,8.5
+87,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,None,Moderate,1,3,Noisy,5,Bad,3,7
+88,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Most,Moderate,3,2,Quiet,4,Good,7,7.9
+89,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,None,Low,1,1,Quiet,3,Bad,4,6.8
+90,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos",Very bad,Few,Few,Low,1,1,Quiet,3,Bad,3,6.8
+91,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Moderate,3,4,Quiet,2,Good,9,8.8
+92,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,None,Low,2,1,Quiet,5,Bad,10,8
+93,Female,Postgraduate,Moderate,Rural,"Live Session, Doubt sessions",Good,Most,Few,Low,4,4,Quiet,4,Good,5,8.6
+94,Female,Postgraduate,Rarely,Urban,"Live Session, Doubt sessions",Moderate,Most,Few,Moderate,1,3,Noisy,4,Moderate,8,7.9
+95,Male,Undergraduate,Rarely,Urban,Live Session,Moderate,Few,None,Low,2,3,Noisy,3,Bad,4,6.5
+96,Male,Postgraduate,Very often,Rural,"Live Session, Recorded Videos",Good,Most,Few,Low,2,2,Quiet,5,Bad,9,8
+97,Female,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,None,Low,3,3,Quiet,4,Moderate,6,7.8
+98,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Very bad,Most,None,Low,1,1,Noisy,5,Bad,10,8.4
+99,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Good,Most,None,Low,2,3,Quiet,4,Good,6,8.1
+100,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Few,Most,Moderate,2,1,Quiet,1,Bad,4,7.5
+101,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Very good,Few,None,Low,3,2,Noisy,4,Moderate,3,7.6
+102,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,1,1,Noisy,5,Bad,8,7.7
+103,Male,Postgraduate,Rarely,Urban,Live Session,Moderate,Most,Few,Low,2,3,Noisy,3,Moderate,8,7.8
+104,Male,Postgraduate,Moderate,Rural,Recorded Videos,Moderate,Few,Few,Low,1,2,Noisy,4,Moderate,8,8.1
+105,Male,Undergraduate,Moderate,Urban,Recorded Videos,Bad,Few,None,Low,1,1,Noisy,5,Bad,0.5,6.4
+106,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Most,Most,Moderate,1,1,Noisy,4,Moderate,3,7.5
+107,Male,Postgraduate,Moderate,Urban,Live Session,Bad,Most,None,Moderate,2,2,Quiet,4,Bad,8,7.2
+108,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos",Moderate,Most,Few,Low,2,3,Quiet,3,Bad,8,7.5
+109,Male,Postgraduate,Never,Rural,Live Session,Bad,Few,Few,Low,3,2,Quiet,3,Bad,9,8.6
+110,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Moderate,2,3,Noisy,3,Moderate,9,8.1
+111,Female,Undergraduate,Rarely,Urban,Live Session,Moderate,Few,Few,Moderate,3,3,Noisy,4,Bad,8,7.9
+112,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,None,Low,1,3,Quiet,4,Bad,8,8.1
+113,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Very good,Most,Few,High,3,2,Noisy,3,Good,7,7.8
+114,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,2,1,Noisy,4,Moderate,3,7.6
+115,Male,Postgraduate,Rarely,Rural,Live Session,Moderate,Few,Few,Low,1,1,Noisy,5,Bad,5,7.5
+116,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Low,2,5,Quiet,1,Moderate,6,7.6
+117,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,3,1,Quiet,3,Moderate,8,7.6
+118,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,None,Low,2,2,Noisy,4,Moderate,1,6.8
+119,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos",Moderate,Most,Few,Moderate,2,3,Noisy,5,Bad,5,7.4
+120,Female,Postgraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Low,4,3,Quiet,4,Moderate,8,8
+121,Male,Postgraduate,Rarely,Urban,Live Session,Moderate,Most,None,Low,2,2,Quiet,3,Good,4,7
+122,Male,Postgraduate,Moderate,Rural,"Live Session, Recorded Videos",Moderate,Few,Few,Low,2,1,Noisy,4,Moderate,11,8.9
+123,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,Few,Low,1,2,Noisy,4,Moderate,8,8
+124,Male,Undergraduate,Moderate,Rural,Live Session,Good,Most,Most,High,2,1,Quiet,4,Moderate,6,7.5
+125,Male,Postgraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,None,Low,3,1,Noisy,5,Moderate,3,7.2
+126,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,3,3,Noisy,4,Good,5,7.5
+127,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Very bad,Few,Few,Moderate,1,1,Noisy,5,Bad,2,6.4
+128,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,High,3,3,Quiet,3,Bad,6,7.4
+129,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Low,5,2,Quiet,5,Moderate,6,7.9
+130,Female,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,2,1,Quiet,2,Moderate,4,7
+131,Female,Postgraduate,Very often,Rural,Live Session,Moderate,Few,None,Moderate,1,1,Noisy,5,Moderate,8,7.5
+132,Male,Postgraduate,Rarely,Urban,Live Session,Good,Most,Most,Moderate,4,4,Noisy,4,Moderate,8,8.2
+133,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,1,1,Quiet,5,Moderate,9,7.9
+134,Male,Postgraduate,Very often,Rural,Live Session,Moderate,Few,Most,Moderate,4,4,Noisy,4,Moderate,10,8.8
+135,Female,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,3,3,Quiet,5,Moderate,6,7.7
+136,Female,Postgraduate,Rarely,Urban,Live Session,Bad,Most,Few,Low,4,4,Quiet,5,Bad,5,8.2
+137,Male,Undergraduate,Very often,Rural,"Live Session, Recorded Videos, Doubt sessions",Very bad,Few,None,Low,1,1,Noisy,5,Moderate,4,7.5
+138,Female,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos",Moderate,Few,Few,Moderate,2,3,Noisy,4,Moderate,9,8.8
+139,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Few,Few,Low,1,2,Quiet,2,Moderate,6,7.6
+140,Male,Postgraduate,Moderate,Rural,"Live Session, Recorded Videos",Moderate,Most,Most,Moderate,3,1,Noisy,3,Moderate,3,7.6
+141,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,4,5,Quiet,1,Good,3,7.2
+142,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,Most,Few,Moderate,2,3,Quiet,3,Bad,7,7.2
+143,Female,Postgraduate,Very often,Rural,Live Session,Good,Most,Most,Low,4,3,Quiet,5,Moderate,7,7.8
+144,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,2,3,Noisy,3,Moderate,2.5,6.4
+145,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos",Good,Few,Few,Moderate,4,2,Quiet,3,Moderate,7,7.5
+146,Female,Postgraduate,Rarely,Urban,Live Session,Good,Most,Few,Moderate,4,2,Quiet,4,Good,7,7.7
+147,Male,Undergraduate,Never,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Most,Few,Moderate,4,3,Quiet,3,Moderate,10,8
+148,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos, Doubt sessions",Good,Few,Few,Low,2,3,Noisy,3,Moderate,3,7.2
+149,Male,Postgraduate,Rarely,Urban,Doubt sessions,Very bad,Few,Few,Low,1,3,Noisy,5,Bad,8,7.8
+150,Male,Undergraduate,Rarely,Rural,"Live Session, Recorded Videos, Doubt sessions",Moderate,Few,Few,Low,3,4,Quiet,2,Good,7,8.1
+151,Male,Undergraduate,Moderate,Urban,"Live Session, Recorded Videos, Doubt sessions",Bad,None,Few,Moderate,1,1,Noisy,4,Bad,5,7.9
+152,Male,Undergraduate,Never,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Moderate,2,2,Noisy,3,Bad,3,6.8
+153,Male,Postgraduate,Rarely,Rural,Recorded Videos,Good,Few,Few,Moderate,4,3,Quiet,3,Moderate,4,7.1
+154,Male,Undergraduate,Very often,Urban,"Live Session, Recorded Videos, Doubt sessions",Moderate,Most,Few,Low,1,1,Quiet,4,Moderate,3,7.3
+155,Male,Postgraduate,Rarely,Rural,"Live Session, Recorded Videos",Very good,Most,Most,Low,3,3,Quiet,3,Moderate,8,8.1
+156,Male,Postgraduate,Rarely,Urban,"Live Session, Recorded Videos",Moderate,Few,None,Low,3,3,Quiet,4,Moderate,6,7.2
+157,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Doubt sessions",Bad,Few,None,Low,2,2,Noisy,5,Moderate,4,6.9
+158,Male,Undergraduate,Rarely,Urban,"Live Session, Recorded Videos",Good,Few,None,High,4,4,Quiet,1,Moderate,3,7.4
+159,Male,Undergraduate,Moderate,Rural,"Live Session, Recorded Videos, Doubt sessions",Very bad,Few,None,Low,1,1,Noisy,5,Bad,1,6.3
+160,Male,Postgraduate,Very often,Urban,Live Session,Very good,Most,Few,Low,5,4,Noisy,5,Bad,10,6.9
+161,Female,Postgraduate,Moderate,Urban,Live Session,Moderate,Most,None,Low,3,3,Quiet,4,Moderate,8,7.7
+162,Male,Undergraduate,Moderate,Urban,"Live Session, Doubt sessions",Very bad,Few,None,Low,1,2,Noisy,4,Bad,7,7.6
+163,Female,Postgraduate,Very often,Rural,"Recorded Videos, Live Session",Moderate,Most,Most,Low,3,3,Noisy,5,Moderate,5,7.8
+164,Male,Postgraduate,Rarely,Urban,Live Session,Moderate,Few,None,Low,3,2,Quiet,2,Moderate,2,6.7
+165,Female,Postgraduate,Rarely,Urban,Live Session,Very Good,Most,Few,Moderate,3,1,Noisy,5,Bad,8,7.8
+166,Male,Undergraduate,Very often,Urban,"Recorded Videos, Doubt Session, Live Session",Moderate,Few,Few,Low,4,4,Quiet,5,Moderate,8,7.8
+167,Male,Postgraduate,Rarely,Rural,"Recorded Videos, Live Session",Good,Most,None,Moderate,1,2,Quiet,5,Good,8,7.8
+168,Male,Postgraduate,Rarely,Urban,"Recorded Videos, Live Session",Good,Most,Most,Low,3,3,Quiet,2,Moderate,6,8.1
+169,Female,Undergraduate,Moderate,Urban,"Recorded Videos, Live Session",Good,Most,Most,Moderate,4,4,Quiet,2,Good,7,7.6
+170,Male,Postgraduate,Moderate,Urban,Live Session,Very Bad,None,None,Low,1,1,Quiet,5,Bad,5,7.5
+171,Male,Undergraduate,Very often,Rural,"Recorded Videos, Doubt Session, Live Session",Very Bad,Few,Few,Low,1,1,Quiet,5,Bad,6,7.4
+172,Male,Undergraduate,Moderate,Rural,"Recorded Videos, Live Session",Bad,Few,Few,Moderate,1,2,Quiet,3,Good,3,7
+173,Female,Postgraduate,Moderate,Rural,Live Session,Moderate,Few,None,Moderate,5,5,Quiet,5,Bad,6,8.2
+174,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Doubt Session, Live Session",Moderate,Most,Few,Moderate,3,3,Quiet,4,Good,8,7.5
+175,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Live Session",Good,Most,Few,Moderate,2,3,Noisy,3,Moderate,4,7.3
+176,Male,Undergraduate,Rarely,Urban,"Doubt Session, Live Session",Good,Most,Most,Moderate,4,4,Quiet,4,Good,2,7.4
+177,Male,Undergraduate,Moderate,Rural,Live Session,Very Bad,Few,None,Low,1,1,Noisy,5,Good,2,6.5
+178,Male,Postgraduate,Very often,Rural,Live Session,Moderate,Most,Most,Moderate,4,4,Quiet,2,Moderate,4,7.1
+179,Male,Postgraduate,Rarely,Urban,"Recorded Videos, Doubt Session, Live Session",Good,Few,Few,High,4,2,Noisy,5,Moderate,4,7.7
+180,Male,Undergraduate,Rarely,Rural,"Recorded Videos, Live Session",Bad,Few,Few,Low,1,1,Quiet,1,Moderate,2,6.7
+181,Male,Postgraduate,Rarely,Urban,Live Session,Very Good,Most,Few,High,3,4,Noisy,3,Moderate,6,7.5
+182,Male,Undergraduate,Rarely,Urban,"Recorded Videos, Doubt Session, Live Session",Moderate,Most,Few,Moderate,3,3,Noisy,4,Moderate,8,7.4
+183,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Live Session",Moderate,Few,None,Low,1,2,Quiet,2,Good,1,6.9
+184,Male,Undergraduate,Very often,Urban,"Recorded Videos, Doubt Session, Live Session",Moderate,Few,Few,Low,2,3,Noisy,4,Bad,7,7.4
+185,Male,Undergraduate,Very often,Rural,"Recorded Videos, Doubt Session, Live Session",Bad,Most,Most,Low,1,1,Noisy,4,Moderate,4,7
+186,Male,Postgraduate,Rarely,Urban,"Recorded Videos, Live Session",Good,Most,Most,Low,4,3,Quiet,4,Bad,8,8
+187,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Live Session",Very Bad,Few,None,Low,3,4,Quiet,5,Bad,5,7.6
+188,Male,Postgraduate,Moderate,Rural,"Recorded Videos, Doubt Session, Live Session",Good,Most,Few,Low,3,4,Quiet,1,Good,5,7.3
+189,Female,Postgraduate,Moderate,Urban,"Recorded Videos, Live Session",Moderate,Few,Few,Moderate,3,2,Noisy,5,Moderate,4,6.7
+190,Female,Doctorate,Rarely,Urban,Live Session,Good,Few,Few,Moderate,4,4,Noisy,2,Moderate,8,8.1
+191,Male,Doctorate,Moderate,Urban,Live Session,Moderate,Few,Few,Moderate,2,2,Noisy,4,Moderate,5,7.7
+192,Male,Postgraduate,Rarely,Rural,"Recorded Videos, Live Session",Good,Few,Few,Low,3,3,Quiet,2,Moderate,7,7.3
+193,Male,Postgraduate,Rarely,Rural,"Recorded Videos, Doubt Session, Live Session",Bad,Most,Most,Low,2,2,Noisy,3,Bad,4,7.5
+194,Female,Undergraduate,Rarely,Urban,"Recorded Videos, Live Session",Moderate,Most,Few,Low,3,3,Quiet,4,Bad,5,7.7
+195,Male,Postgraduate,Moderate,Urban,"Recorded Videos, Live Session",Good,Most,Few,Low,1,5,Quiet,1,Moderate,8,7.3
+196,Male,Undergraduate,Very often,Rural,"Recorded Videos, Doubt Session, Live Session",Bad,Few,None,Moderate,1,3,Quiet,2,Moderate,5.5,7.4
+197,Male,Undergraduate,Rarely,Urban,Recorded Videos,Moderate,Few,Few,High,3,4,Quiet,2,Moderate,7,8
+198,Male,Doctorate,Rarely,Rural,"Recorded Videos, Doubt Session, Live Session",Good,Most,Most,Low,4,3,Quiet,3,Moderate,9,8.6
+199,Female,Postgraduate,Moderate,Urban,Live Session,Moderate,Few,None,Low,3,4,Quiet,2,Good,5,7.5
+200,Male,Undergraduate,Rarely,Rural,"Recorded Videos, Live Session",Good,Few,Few,Low,4,4,Quiet,2,Good,7,7.6
+201,Female,Undergraduate,Moderate,Urban,"Recorded Videos, Live Session",Moderate,Most,Most,Moderate,2,3,Quiet,4,Moderate,6,7.6
+202,Male,Postgraduate,Rarely,Urban,"Recorded Videos, Live Session",Bad,Few,None,Low,1,1,Quiet,3,Bad,3,7.2
+203,Male,Doctorate,Moderate,Urban,"Recorded Videos, Live Session",Good,Most,Most,Low,3,3,Noisy,5,Good,2,6.9
+204,Male,Undergraduate,Rarely,Urban,Live Session,Moderate,Few,None,Moderate,2,1,Noisy,3,Moderate,3,7.2
+205,Female,Postgraduate,Moderate,Rural,Live Session,Moderate,Few,None,Low,2,3,Quiet,3,Good,4,7.1
+206,Male,Postgraduate,Rarely,Rural,Recorded Videos,Good,Few,None,Low,5,5,Quiet,1,Good,8,7.6
+207,Male,Undergraduate,Very often,Rural,"Recorded Videos, Doubt Session, Live Session",Moderate,Most,Most,Moderate,2,3,Noisy,4,Moderate,10,8.5
+208,Male,Undergraduate,Rarely,Urban,"Recorded Videos, Live Session",Good,Most,Few,Moderate,4,4,Quiet,2,Good,2,8.3
+209,Male,Postgraduate,Moderate,Rural,Live Session,Moderate,Few,None,Low,2,2,Noisy,2,Good,2,7.9
+210,Male,Postgraduate,Rarely,Urban,"Recorded Videos, Live Session",Moderate,Most,Most,High,2,4,Quiet,4,Moderate,3,7.6
+211,Female,Postgraduate,Rarely,Urban,Live Session,Good,Most,Most,Moderate,5,5,Quiet,2,Good,6,7.2
+212,Male,Undergraduate,Very often,Urban,"Doubt Session, Live Session",Bad,Few,None,Moderate,1,1,Noisy,4,Moderate,5,7.4
+213,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Doubt Session, Live Session",Moderate,Few,Few,Moderate,3,3,Noisy,5,Moderate,10,8.5
+214,Male,Undergraduate,Moderate,Urban,"Recorded Videos, Live Session",Good,Most,Few,Low,2,3,Quiet,2,Moderate,4,7
+215,Male,Undergraduate,Rarely,Urban,"Recorded Videos, Doubt Session, Live Session",Moderate,Few,None,Low,1,3,Quiet,5,Bad,6,7.6
+216,Male,Postgraduate,Rarely,Rural,"Recorded Videos, Doubt Session, Live Session",Bad,Few,None,Low,1,1,Noisy,4,Bad,3,7.4
+217,Female,Postgraduate,Rarely,Urban,"Recorded Videos, Doubt Session, Live Session",Very Good,Most,Most,Low,4,3,Quiet,4,Good,5,8
+218,Male,Postgraduate,Moderate,Urban,Live Session,Good,Most,Few,Moderate,3,2,Quiet,2,Good,3,7.2
+219,Male,Postgraduate,Moderate,Rural,"Recorded Videos, Doubt Session, Live Session",Good,Few,Few,Moderate,4,3,Quiet,3,Good,5,7.9
+220,Female,Doctorate,Rarely,Urban,Live Session,Good,Few,Few,Moderate,4,4,Noisy,2,Moderate,8,7.5
+221,Male,Doctorate,Moderate,Urban,Live Session,Moderate,Few,Few,Moderate,2,2,Noisy,4,Moderate,5,7.8
+222,Male,Doctorate,Rarely,Rural,"Recorded Videos, Doubt Session, Live Session",Good,Most,Most,Low,4,3,Quiet,3,Moderate,9,8.3
+223,Male,Doctorate,Moderate,Urban,"Recorded Videos, Live Session",Good,Most,Most,Low,3,3,Noisy,5,Good,2,8.6
